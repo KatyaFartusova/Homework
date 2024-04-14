@@ -1,0 +1,1 @@
+print("Homo habilis", "Homo rudolfensis", "Homo erectus", "Homo georgicus", "Homo ergaster", "Homo antecessor", "Homo cepranensis", "Homo heidelbergensis", "Homo rhodesiensis", "Homo neanderthalensis", "Homo sapiens sapiens", sep="=>")
